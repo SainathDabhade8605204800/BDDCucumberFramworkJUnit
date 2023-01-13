@@ -47,6 +47,8 @@ public void user_proceeds_to_checkout(String name) throws InterruptedException
 	
 	checkoutPage.CheckoutItems();
 	//Assertion to extract name from screen and compare with name
+	System.out.println("Test1");
+	System.out.println("Test2");
 }
 
 
